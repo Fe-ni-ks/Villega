@@ -3,7 +3,7 @@
 <title>Деревня Юдановка</title>
 </head>
 <body>
-<body background="сайт/img/blue-and-orange-cupboards.jpg">
+
 
 <h2><center>Деревня Юдановка</center></h2>
 
