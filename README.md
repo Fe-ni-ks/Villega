@@ -11,11 +11,9 @@
 
 <button><a href="https://www.youtube.com/">Ютуб</a></button>
 <br>
-<img src="WhatsApp Image 2024-04-17 at 21.24.48">
+<img src="сайт/img/Забивной Коля">
 <h1><center>Символ сайта</center></h1>
 
 
-<div class="Забивной Коля">
-    <h1>Символ сайта</h1>
-</div>
+
 
