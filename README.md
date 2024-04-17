@@ -11,7 +11,7 @@
 
 <button><a href="https://www.youtube.com/">Ютуб</a></button>
 <br>
-<img src="сайт/img/Забивной коля">
+<img src="сайт/img/Забивной коля.jpeg">
 <h1><center>Символ сайта</center></h1>
 
 
