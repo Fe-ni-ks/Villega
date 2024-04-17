@@ -11,7 +11,7 @@
 
 <button><a href="https://www.youtube.com/">Ютуб</a></button>
 <br>
-<img src="сайт/img/WhatsApp Image 2024-04-17 at 21.24.48.jpeg">
+<img src="WhatsApp Image 2024-04-17 at 21.24.48">
 <h1><center>Символ сайта</center></h1>
 
 
