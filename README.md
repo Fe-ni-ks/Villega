@@ -11,7 +11,7 @@
 
 <button><a href="https://www.youtube.com/">Ютуб</a></button>
 <br>
-<img src="Этот компьютер/Рабочий стол/сайт/img/Забивной коля.jpeg">
+<img src="/сайт/img/Забивной коля.jpeg">
 <h1><center>Символ сайта</center></h1>
 <h1><center>Надо заехать в берюлёво</center></h1>
 
