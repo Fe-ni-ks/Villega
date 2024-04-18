@@ -8,5 +8,5 @@
 <center><button><a href="2слайд">О нас</a></button></center>
 <br>
 
-<button><a href="https://www.youtube.com/watch?v=II5RbWlyDAY">День рождения Сэма</a></button>
+
 <br>
