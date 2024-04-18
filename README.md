@@ -11,8 +11,6 @@
 
 <button><a href="https://www.youtube.com/">Ютуб</a></button>
 <br>
-<img src="/сайт/img/Забивной коля.jpeg">
-<h1><center>Символ сайта</center></h1>
 <h1><center>Надо заехать в берюлёво!!!</center></h1>
 <button><a href="https://www.youtube.com/">Пожар нескольких машин</a></button>
 
