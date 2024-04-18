@@ -21,7 +21,7 @@
 <body>
 <body background="сайт/img/blue-and-orange-cupboards.jpg">
 <img src="img/blue-and-orange-cupboard.jpg">
-<button><center><a href="">Главная строница</a></center></button>
+<button><center><a href="README.md">Главная строница</a></center></button>
 
 
 <h2>Гроза всех деревень</h2>
