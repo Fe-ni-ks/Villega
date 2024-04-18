@@ -8,7 +8,7 @@
 <button><center><a href="2слайд">О нас</a></center></button>
 <br>
 
-<button><a href="https://www.youtube.com/watch?v=II5RbWlyDAY">День рождения Сема</a></button>
+<button><a href="https://www.youtube.com/watch?v=II5RbWlyDAY">День рождения Сэма</a></button>
 
 <br>
 
