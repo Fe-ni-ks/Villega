@@ -7,7 +7,7 @@
   
 <h2><center>Первый сайт</center></h2>
 
- <button><a href="первый сайт">Новости</a></button>
+<button><a href="первый сайт">Новости</a></button>
 <center><button><a href="2слайд">О нас</a></button></center>
  
 
