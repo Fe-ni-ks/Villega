@@ -12,7 +12,7 @@
 <br>
 
 <br>
- <button><a href="музыка">музыка</a></button>
+ <button color:red ><a href="музыка">музыка</a></button>
 
 
 <br>
