@@ -12,7 +12,7 @@
 <br>
 
 <br>
- <dutton><a href="музыка">музыка</a></dutton>
+ <button><a href="музыка">музыка</a></button>
 
 
 <br>
