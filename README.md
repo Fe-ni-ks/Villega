@@ -12,10 +12,7 @@
 <br>
 
 <br>
- <button stile="pading:40px;
-   color:blue
-  backgroung-color: lightgreen;
-  border-radius: 15px; " ><a href="музыка">музыка</a></button>
+ <button stile=" " ><a href="музыка">музыка</a></button>
 
 
 <br>
