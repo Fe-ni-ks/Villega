@@ -12,7 +12,7 @@
 <br>
 
 <br>
-<button><a href='3 строница'>Сигма</a></button>
+<button><a href="3 страница">Сигма</a></button>
 <br>
  <button ><a href="музыка">музыка</a></button>
 <br>
