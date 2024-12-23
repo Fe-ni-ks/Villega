@@ -16,6 +16,6 @@
 <br>
  <button ><a href="музыка">музыка</a></button>
 <br>
-<button><a href='https://rutube.ru/'>Рутуб</a></button>
+<right><button><a href='https://rutube.ru/'>Рутуб</a></button></right>
 
 <br>
