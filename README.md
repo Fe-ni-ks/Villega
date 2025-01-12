@@ -22,3 +22,7 @@
 <br>
 <button><a href='https://vk.com/feed'>ВКконтакте</a></button>
 <br>
+<h3>Маркет плейсы</h3>
+<button><a href="https://www.ozon.ru/">Ozon</a></button>
+<br>
+<button><a href="https://www.wildberries.ru/brands/d-and-f-471210">Wildberries</a></button>
