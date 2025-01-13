@@ -12,6 +12,8 @@
 <br>
 <button><a href="Маркет плейс">Маркет плейсы</a></button>
 <br>
+<button><a href="Сот сети">Сот сети</a></button>
+<br>
 <button><a href="3 страница">Сигма</a></button>
 <br>
  <button ><a href="музыка">музыка</a></button>
