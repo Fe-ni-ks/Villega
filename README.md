@@ -10,7 +10,7 @@
 <button><a href="первый сайт">Видео</a></button>
 <center><button color:grean ><a href="2слайд">О мне</a></button></center>
 <br>
-<button><a href="Маркет плейсы">Маркет плейсы</a></button>
+<button><a href="Маркет плейс">Маркет плейсы</a></button>
 <br>
 <button><a href="3 страница">Сигма</a></button>
 <br>
