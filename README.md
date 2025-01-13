@@ -7,6 +7,7 @@
   
 <h2><center>Первый сайт</center></h2>
 print('Привет')
+<br>
 a = input()
 print(a)
 <button><a href="первый сайт">Видео</a></button>
