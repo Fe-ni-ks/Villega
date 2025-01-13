@@ -16,13 +16,4 @@
 <br>
  <button ><a href="музыка">музыка</a></button>
 <br>
-<h3><right>Сот сети</right></h3>
-<right><button><a href='https://rutube.ru/'>Рутуб</a></button></right>
-<br>
-<button><a href='https://vk.com/feed'>ВКконтакте</a></button>
-<br>
-<button><a href="Маркет плейс">Маркет плейсы</a></button>
-<br>
-<button><a href="https://www.ozon.ru/">Ozon</a></button>
-<br>
-<button><a href="https://www.wildberries.ru/brands/d-and-f-471210">Wildberries</a></button>
+
