@@ -7,6 +7,7 @@
   
 <h2><center>Первый сайт</center></h2>
 <center><button color:grean ><a href="2слайд">О себе</a></button></center>
+<br>
 <button><a href="первый сайт">Видео</a></button>
 
 <br>
